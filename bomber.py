@@ -1,10 +1,8 @@
 import random
-
 import pyautogui
 import time
 
-
-comments = ["Surprise MotherF*****", "Python Bot", "Hah hah hah"]
+comments = ["Surprise MotherF*****", "Python Bot", "Hah hah hah", "Good to see mah bui !"]
 
 time.sleep(5)
 
